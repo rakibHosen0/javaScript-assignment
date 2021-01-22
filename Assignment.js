@@ -2,7 +2,7 @@
 //https://github.com/rakibHosen0/javaScript-assignment
 
 
-//fuction for Kilometer converted to  meter
+//function for Kilometer converted to  meter
 function kilometerToMeter(kilometer) {
     if (kilometer == null) {
         return "kilometer can not null"
